@@ -65,7 +65,7 @@ HospitalManagementSystem
 │       └── AppointmentNotifier.java
 Design Patterns Implemented
 
-text```
+```
 This project demonstrates the use of several design patterns:
 
 1. Factory Pattern
@@ -119,8 +119,9 @@ Build and run the project
 Using Command Line
 Compile all Java files
 Run the Main class
-Sample Menu
 
+Sample Menu
+```text
 ===== HOSPITAL MANAGEMENT SYSTEM =====
 1. Register Patient
 2. Add Doctor
@@ -132,7 +133,7 @@ Sample Menu
 8. Exit
 Example Functionalities
 Register Patient
-
+```
 Users can register patients by selecting a patient type:
 
 IN
@@ -156,12 +157,15 @@ Generate Bill
 Bills are generated using different billing strategies depending on patient type.
 
 Sample Output
+```text
 Patient registered successfully.
 Doctor added successfully.
 Appointment booked successfully.
 Notification for John: Appointment booked successfully on 2025-09-15
 Total Bill: 6000.0
 UML Diagrams
+```
+
 
 This project includes UML diagrams for:
 
@@ -198,8 +202,7 @@ Develop a GUI using Java Swing or JavaFX
 Add login and authentication
 Store appointment history permanently
 Add advanced billing and reporting features
-Author
 
-Ashen Eranga
+Author Ashen Eranga
 
-Ashen Eranga
+
