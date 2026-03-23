@@ -106,11 +106,15 @@ This project also follows key SOLID principles:
 
 Single Responsibility Principle
 Each class has a specific responsibility. For example, billing, notification, and patient creation are handled separately.
+
 Open/Closed Principle
 The system can be extended with new patient types or billing strategies without changing existing core logic.
+
 Dependency Inversion Principle
 High-level modules depend on abstractions such as interfaces like BillingStrategy and Observer.
+
 How to Run the Project
+```text
 Using NetBeans IDE
 Open NetBeans IDE
 Click File > Open Project
@@ -119,6 +123,7 @@ Build and run the project
 Using Command Line
 Compile all Java files
 Run the Main class
+```
 
 Sample Menu
 ```text
