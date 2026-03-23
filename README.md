@@ -65,6 +65,7 @@ HospitalManagementSystem
 │       └── AppointmentNotifier.java
 Design Patterns Implemented
 
+```text
 This project demonstrates the use of several design patterns:
 
 1. Factory Pattern
@@ -119,6 +120,7 @@ Using Command Line
 Compile all Java files
 Run the Main class
 Sample Menu
+
 ===== HOSPITAL MANAGEMENT SYSTEM =====
 1. Register Patient
 2. Add Doctor
@@ -170,28 +172,6 @@ Observer Pattern
 
 These diagrams were created as part of the project documentation and report.
 
-Screenshots
-
-Add your project screenshots here after uploading them to the repository.
-
-Example:
-
-## Screenshots
-
-### Main Menu
-![Main Menu](screenshots/main-menu.png)
-
-### Register Patient
-![Register Patient](screenshots/register-patient.png)
-
-### Add Doctor
-![Add Doctor](screenshots/add-doctor.png)
-
-### Book Appointment
-![Book Appointment](screenshots/book-appointment.png)
-
-### Generate Bill
-![Generate Bill](screenshots/generate-bill.png)
 Learning Outcomes
 
 Through this project, the following concepts were practiced:
@@ -219,5 +199,7 @@ Add login and authentication
 Store appointment history permanently
 Add advanced billing and reporting features
 Author
+
+Ashen Eranga
 
 Ashen Eranga
