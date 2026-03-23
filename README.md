@@ -65,7 +65,7 @@ HospitalManagementSystem
 │       └── AppointmentNotifier.java
 Design Patterns Implemented
 
-```text
+text```
 This project demonstrates the use of several design patterns:
 
 1. Factory Pattern
